@@ -111,7 +111,6 @@ img{
         - Flexbox - Create general spacing between nav links
     */
     display: flex;
-    flex:
 }
 #main-navigation #logo{
     margin-right: 400px;
